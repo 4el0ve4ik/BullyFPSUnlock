@@ -1,0 +1,9 @@
+
+.vs/FPSUnlock/v14/.suo
+*.log
+*.tlog
+FPSUnlock/Release/main.obj
+FPSUnlock/Release/vc140.pdb
+Release/FPSUnlock.iobj
+Release/FPSUnlock.ipdb
+Release/FPSUnlock.pdb
